@@ -3,7 +3,7 @@
 <h3 align="center">A passionate frontend developer from Northampton</h3>
 
 
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/media/34e69eb61a7bd8dea1c957a8b82605a7.gif" />
 
 - 💬 Ask me about anything relate to frontend **React, JavaScript and any other frontend related.**
 
@@ -13,10 +13,8 @@
 
 - ⚡ Fun fact **20% of all the oxygen you breathe is used by your brain.**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/kanisorn-janrungsri/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kanisorn-janrungsri/" height="30" width="40" /></a>
-</p>
+
+
 
 
 <h3 align="left">Languages and Tools:</h3>
