@@ -7,16 +7,9 @@
 
 
 
-- 💬 Ask me about anything relate to frontend **React, JavaScript and any other frontend relate![pngwing com](https://user-images.githubusercontent.com/1568348/192062876-01dca0c3-4d08-49cd-8ae1-b872ef6ac0c2.png)
-d.**
-
 - 📫 How to reach me **kanisornjoe@gmail.com**![pngwing com
-
-
 - 📄 Know about my experiences [https://www.linkedin.com/in/kanisorn-janrungsri/](https://www.linkedin.com/in/kanisorn-janrungsri/)
-
 - ⚡ Fun fact **20% of all the oxygen you breathe is used by your brain.**
-
 
 
 <h3 align="left">Languages and Tools:</h3>
