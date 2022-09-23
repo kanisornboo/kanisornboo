@@ -3,7 +3,7 @@
 <h3 align="center">A passionate frontend developer from Northampton</h3>
 
 
-<img align="right" alt="coding" width="400" src="https://media4.giphy.com/media/TuOywYIB1KMcIfgnEP/giphy.gif?cid=ecf05e47cwe3i9n9rt7tsrhtw2kwb3m0v3ezwer5w2mclgyi&rid=giphy.gif&ct=g" />
+<img align="right" alt="coding" width="400" src="https://w7.pngwing.com/pngs/519/64/png-transparent-black-laptop-computer-illustration-computer-programming-web-development-computer-software-programming-language-theme-coder-electronics-gadget-internet.png" />
 
 - 💬 Ask me about anything relate to frontend **React, JavaScript and any other frontend related.**
 
