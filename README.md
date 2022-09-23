@@ -7,8 +7,8 @@
 
 
 
-- 📫 How to reach me **kanisornjoe@gmail.com**![pngwing com
-- 📄 Know about my experiences [https://www.linkedin.com/in/kanisorn-janrungsri/](https://www.linkedin.com/in/kanisorn-janrungsri/)
+- 📫 How to reach me - **kanisornjoe@gmail.com**
+- 📄 Want to know about my experiences - [https://www.linkedin.com/in/kanisorn-janrungsri/](https://www.linkedin.com/in/kanisorn-janrungsri/)
 - ⚡ Fun fact **20% of all the oxygen you breathe is used by your brain.**
 
 
