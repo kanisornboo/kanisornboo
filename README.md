@@ -3,11 +3,15 @@
 <h3 align="center">A passionate frontend developer from Northampton</h3>
 
 
-<img align="right" alt="coding" width="400" src="https://w7.pngwing.com/pngs/519/64/png-transparent-black-laptop-computer-illustration-computer-programming-web-development-computer-software-programming-language-theme-coder-electronics-gadget-internet.png" />
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/1568348/192062891-da242dcf-1d53-4c0e-b13f-a179da5101ca.png" />
 
-- 💬 Ask me about anything relate to frontend **React, JavaScript and any other frontend related.**
 
-- 📫 How to reach me **kanisornjoe@gmail.com**
+
+- 💬 Ask me about anything relate to frontend **React, JavaScript and any other frontend relate![pngwing com](https://user-images.githubusercontent.com/1568348/192062876-01dca0c3-4d08-49cd-8ae1-b872ef6ac0c2.png)
+d.**
+
+- 📫 How to reach me **kanisornjoe@gmail.com**![pngwing com
+
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/kanisorn-janrungsri/](https://www.linkedin.com/in/kanisorn-janrungsri/)
 
